@@ -1,0 +1,26 @@
+{
+ "allow_roles": [
+  {
+   "role": "Archive System"
+  }
+ ],
+ "creation": "2024-05-31 20:51:13.691410",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "#",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2024-05-31 20:51:13.691410",
+ "modified_by": "Administrator",
+ "module": "Archive System",
+ "name": "Archive System",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "\u0627\u0636\u0627\u0641\u0629 \u062a\u0627\u062c\u0631"
+  }
+ ],
+ "subtitle": "\u0646\u0638\u0627\u0645 \u0627\u0631\u0634\u0641\u0629",
+ "success_message": "well done ",
+ "title": "Archive System"
+}

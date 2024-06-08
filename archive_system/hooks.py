@@ -123,11 +123,12 @@ app_license = "mit"
 # Hook on document methods and events
 
 # doc_events = {
-#	"*": {
-#		"on_update": "method",
-#		"on_cancel": "method",
-#		"on_trash": "method"
-#	}
+# 	"Trader": {
+# 		# "on_update": "method",
+# 		# "on_cancel": "method",
+# 		# "on_trash": "method"
+#         # "after_insert": "archive_system.archive_system.doctype.trader.events.after_insert"
+# 	}
 # }
 
 # Scheduled Tasks
